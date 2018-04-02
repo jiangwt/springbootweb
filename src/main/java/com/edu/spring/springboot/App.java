@@ -13,6 +13,7 @@ public class App {
 				(App.class, args);
 		
 		
+//		context.close();
 	}
 	
 	@Bean
